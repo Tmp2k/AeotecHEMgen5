@@ -29,5 +29,5 @@ Todo:
 
 * Add a reset date so that standing charges can be added to cost based on the last reset date
 * Add configurable currency and other options for calculating costs
-
+* Allow choice of unit to display on device list via preferences e.g. cost / kWh / kW etc.
 
