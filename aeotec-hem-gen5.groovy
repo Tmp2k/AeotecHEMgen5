@@ -17,7 +17,7 @@
  *
  */
 metadata {
-	definition (name: "Aeotec HEM Gen5", namespace: "ClassicGOD", author: "Artur Draga") {
+	definition (name: "Aeotec HEM Gen5", namespace: "Tmp2k", author: "Steven Tomlinson") {
 		capability "Energy Meter"
 		capability "Power Meter"
 		capability "Voltage Measurement"
