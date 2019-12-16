@@ -1,11 +1,14 @@
 # AeotecHEMgen5
 SmartThings Device Handler for Aeotec Home Energy Meter Gen 5
 
+Based on a handler by Classic GOD https://community.smartthings.com/t/aeotec-home-energy-meter-gen-5-composite-dth/
+
 ## Important - please read
 
 **You will need to press the action button TWICE when including your Aeotec HEM.** This includes the device in Z-Wave secure mode which is needed to access the aditional features of this device handler. If you didn't do this, you will need to exclude the HEM (use the ST app to remove the device and press the action button when your hub is in exclusion mode). Then re-include the HEM and press the button twice.
 
-Based on a handler by Classic GOD https://community.smartthings.com/t/aeotec-home-energy-meter-gen-5-composite-dth/
+
+### Changes
 
 I updated this based on my own needs but it could easily be extended further.
 
